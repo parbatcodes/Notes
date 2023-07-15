@@ -1,0 +1,33 @@
+1) mean vs average?
+2) Learn about bell cureve?
+3) what is model?
+4) loss funciton?
+
+* Machine Learning is an accurate prediction of parameter(s) of probability distribution of dependent variable on a 
+  condition that the dependent variable is dependent on input features.
+
+
+Relative Frequency:
+It is not stable or constant.
+
+RF becomes probability when the sample is very very large.
+
+Frequentist:
+who thinks of probability in terms of frequency.
+
+Bayesian:
+oppsite of frequentist.
+
+
+Probability Distribution:
+when we mark the probability of a variable on a graph, the graph is known as PD.
+
+* Normal Distribution(Bell Curve): It is a part of our live,most of the data forms NM at populaiton level.
+  -mean has the highest probability.
+  - two parts: mean, standard deviation.
+
+
+Might not be correct
+-all the columns on the basis of which a random variable's probability is calculated is known as input feature.
+-The varible who's probabiltiy we are trying to find is known as target feature aka dependent variable.
+
