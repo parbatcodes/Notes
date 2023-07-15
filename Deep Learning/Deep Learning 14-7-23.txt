@@ -1,0 +1,20 @@
+Frequentist Probability, Bayesian Probability.
+
+only large sample gives true probability value.
+
+large sample is know as probability distribution.	
+
+ Types of probability distribution
+	- Binomial Distribution
+	- Poisson Distribution
+	- Multivariant Distribution
+	and many more.
+
+randint - uses uniform probabiltiy distribution.
+
+np.random.normal
+scale = standard deviation
+loc = mean
+
+Libraries used
+ numpy & matplotlib
